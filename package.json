@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jourtics/search-engine-1.1.git"
+    "url": "git+https://github.com/Anchit-13/search-engine-1.1.git"
   },
-  "author": "nandan",
+  "author": "anchit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jourtics/search-engine-1.1/issues"
+    "url": "https://github.com/Anchit-13/search-engine-1.1/issues"
   },
-  "homepage": "https://github.com/Jourtics/search-engine-1.1#readme"
+  "homepage": "https://github.com/Anchit-13/search-engine-1.1#readme"
 }
