@@ -12,3 +12,6 @@ To clone the repo, run ```git clone https://github.com/Anchit-13/search-engine.g
 
 # Usage
 After installing all the dependencies, run ```npm start``` or ```node app.js``` or ```nodemon app.js``` in your terminal to start the application.
+# Screenshots
+![Screenshot (103)](https://user-images.githubusercontent.com/87356420/189306394-d3ece5e1-c782-4d6b-b852-1df03ed08798.png)
+
